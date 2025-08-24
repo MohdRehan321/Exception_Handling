@@ -28,9 +28,4 @@ A focused repository demonstrating best practices and practical examples of exce
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Author
-
-Mohd
-
----
 
